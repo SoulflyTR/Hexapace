@@ -5,4 +5,11 @@
 
 <br/>
 
-**Project can be downloaded at release folder**
+**Project can be downloaded at release folder** <br/>
+**Rules can be read from the "Hexapace Rules.pdf" file** <br/>
+
+<br/>
+
+**Project Google Slide Link** <br/>
+
+[Click here](https://docs.google.com/presentation/d/1KUSD0z_4Knms5diX79tG5xRSwOgKJuasqCjawwk_1i4/edit?usp=sharing)
