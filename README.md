@@ -5,4 +5,4 @@
 
 <br/>
 
-**Project can be downloaded at releases folder**
+**Project can be downloaded at release folder**
