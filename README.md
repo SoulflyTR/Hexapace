@@ -10,6 +10,6 @@
 
 <br/>
 
-**Project Google Slide Link** <br/>
+**Project Google Slide Link**
 
 [Click here](https://docs.google.com/presentation/d/1KUSD0z_4Knms5diX79tG5xRSwOgKJuasqCjawwk_1i4/edit?usp=sharing)
